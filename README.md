@@ -18,6 +18,3 @@ In this next version I will be creating an object class to hold the information 
 # Version 3
 
 I will attempt to incorporate the 'JDatePicker: Java Swing Date Picker' feature.
-
-access token
-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
